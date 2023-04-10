@@ -10,8 +10,12 @@ Currently, I am developing an Android pet care app using Android Studio. This pr
 
 In addition to my ongoing work on the pet care app, I am also studying for the CEH and CISSP exams. These certifications are important to me as they will provide me with a deeper understanding of the cybersecurity field and validate my knowledge and skills.
 
+## Fun Fact About Me
+
+In my free time, I enjoy expressing my creativity through sketching, and I also love to unwind with a good book from time to time.
+
 ## Get in Touch
 
-I am always interested in connecting with like-minded individuals in the cybersecurity community. If you have any questions or just want to say hello, feel free to reach out to me through my email (`sura.mitraa@gmail.com`) or [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile-here/).
+I am always interested in connecting with like-minded individuals in the cybersecurity community. If you have any questions or just want to say hello, feel free to reach out to me through my email (`sura.mitraa@gmail.com`) or [LinkedIn](https://www.linkedin.com/in/mitra-sura-a38bb6244/).
 
 Thank you for visiting my Github page, and I look forward to connecting with you!
