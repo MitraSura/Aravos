@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Mitra Abhi Sura!
 
-<!--
-**Aravos/Aravos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a cybersecurity enthusiast currently pursuing a specialization in Cybersecurity and Privacy at my university. My passion for cybersecurity has driven me to pursue a career in the field, and I am currently learning about pentesting and JavaScript to enhance my skills.
 
-Here are some ideas to get you started:
+## What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am developing an Android pet care app using Android Studio. This project is a personal initiative to combine my interest in technology and love for pets. I hope this app will help pet owners keep track of their pet's health and wellbeing.
+
+## What I'm Learning
+
+In addition to my ongoing work on the pet care app, I am also studying for the CEH and CISSP exams. These certifications are important to me as they will provide me with a deeper understanding of the cybersecurity field and validate my knowledge and skills.
+
+## Get in Touch
+
+I am always interested in connecting with like-minded individuals in the cybersecurity community. If you have any questions or just want to say hello, feel free to reach out to me through my email (`sura.mitraa@gmail.com`) or [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile-here/).
+
+Thank you for visiting my Github page, and I look forward to connecting with you!
