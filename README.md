@@ -16,6 +16,4 @@ In my free time, I enjoy expressing my creativity through sketching, and I also 
 
 ## Get in Touch
 
-I am always interested in connecting with like-minded individuals in the cybersecurity community. If you have any questions or just want to say hello, feel free to reach out to me through my email (`sura.mitraa@gmail.com`) or [LinkedIn](https://www.linkedin.com/in/mitra-sura-a38bb6244/).
-
-Thank you for visiting my Github page, and I look forward to connecting with you!
+I am always interested in connecting with like-minded individuals in the cybersecurity community. If you have any questions or just want to say hello, feel free to reach out to me through my email (`sura.mitraa@gmail.com`)
