@@ -4,7 +4,7 @@ I am a cybersecurity enthusiast currently pursuing a specialization in Cybersecu
 
 ## What I'm Working On
 
-Currently, I am developing an Android pet care app using Android Studio. This project is a personal initiative to combine my interest in technology and love for pets. I hope this app will help pet owners keep track of their pet's health and wellbeing.
+Currently, I am developing a Simple Antivirus software using C++.
 
 ## What I'm Learning
 
